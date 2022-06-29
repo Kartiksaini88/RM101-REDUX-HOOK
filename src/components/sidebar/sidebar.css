@@ -1,0 +1,28 @@
+.siderbar{
+    border: 1px solid red;
+    width: 200px;
+    height: 400px;
+    align-items: center;
+
+}
+
+.main{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.userimg{
+    width: 100px;
+}
+p{
+    line-height: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.todo_div{
+    margin-left: 100px;
+    border: 1px solid red;
+    overflow: scroll;
+}
+
